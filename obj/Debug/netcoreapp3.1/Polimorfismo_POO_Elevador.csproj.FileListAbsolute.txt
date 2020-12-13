@@ -1,0 +1,13 @@
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Polimorfismo_POO_Elevador\bin\Debug\netcoreapp3.1\Polimorfismo_POO_Elevador.exe
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Polimorfismo_POO_Elevador\bin\Debug\netcoreapp3.1\Polimorfismo_POO_Elevador.deps.json
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Polimorfismo_POO_Elevador\bin\Debug\netcoreapp3.1\Polimorfismo_POO_Elevador.runtimeconfig.json
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Polimorfismo_POO_Elevador\bin\Debug\netcoreapp3.1\Polimorfismo_POO_Elevador.runtimeconfig.dev.json
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Polimorfismo_POO_Elevador\bin\Debug\netcoreapp3.1\Polimorfismo_POO_Elevador.dll
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Polimorfismo_POO_Elevador\bin\Debug\netcoreapp3.1\Polimorfismo_POO_Elevador.pdb
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Polimorfismo_POO_Elevador\obj\Debug\netcoreapp3.1\Polimorfismo_POO_Elevador.csprojAssemblyReference.cache
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Polimorfismo_POO_Elevador\obj\Debug\netcoreapp3.1\Polimorfismo_POO_Elevador.AssemblyInfoInputs.cache
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Polimorfismo_POO_Elevador\obj\Debug\netcoreapp3.1\Polimorfismo_POO_Elevador.AssemblyInfo.cs
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Polimorfismo_POO_Elevador\obj\Debug\netcoreapp3.1\Polimorfismo_POO_Elevador.csproj.CoreCompileInputs.cache
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Polimorfismo_POO_Elevador\obj\Debug\netcoreapp3.1\Polimorfismo_POO_Elevador.dll
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Polimorfismo_POO_Elevador\obj\Debug\netcoreapp3.1\Polimorfismo_POO_Elevador.pdb
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Polimorfismo_POO_Elevador\obj\Debug\netcoreapp3.1\Polimorfismo_POO_Elevador.genruntimeconfig.cache
